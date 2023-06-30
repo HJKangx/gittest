@@ -3,3 +3,6 @@ def preprocess():
 
 def inference():
     return 1
+
+def postprocess():
+    return 2
