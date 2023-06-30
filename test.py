@@ -10,3 +10,4 @@ def add ():
     return 0
 
 a = 1
+a= 3
