@@ -6,3 +6,7 @@ def __version__():
 def fub():
     return 1
 
+def add ():
+    return 0
+
+a = 1
