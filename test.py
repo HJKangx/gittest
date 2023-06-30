@@ -1,4 +1,4 @@
-version = 0
+version = 1.1
 
 def __version__():
     return version
